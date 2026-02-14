@@ -1,0 +1,51 @@
+name: blind_vision_app
+description: A Flutter app for real-time object detection for the blind.
+publish_to: 'none'
+
+environment:
+  sdk: ">=3.1.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  camera: ^0.10.5+2
+  http: ^0.13.6
+  flutter_tts: ^3.6.3
+  path_provider: ^2.1.2      
+  telephony: ^0.2.0
+  url_launcher: ^6.2.4     
+  vibration: ^1.7.7
+  speech_to_text: ^6.3.0
+  android_alarm_manager_plus: ^3.0.3
+  hive: ^2.2.3       
+  hive_flutter: ^1.1.0    
+  shared_preferences: ^2.2.2  
+  geolocator: ^10.1.0    
+  share_plus: ^6.3.1   
+  pedometer: ^3.0.0 
+  motion_sensors: ^0.1.0  
+  sensors_plus: ^4.0.2
+  permission_handler: ^11.0.1
+  csv: ^5.0.2   
+  string_similarity: ^2.0.0
+  intl: any
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/bg.jpg
+    - assets/space_bg.jpeg
+    - assets/icons/camera.png
+    - assets/icons/vr.png
+    - assets/icons/sos.png
+    - assets/icons/reminder.png
+    - assets/icons/schedule.png
+    - assets/icons/settings.png    
+    - assets/university_edges.csv
+    - assets/university_nodes.csv

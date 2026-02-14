@@ -1,0 +1,37 @@
+Node Name,Type,Floor
+pg stairs,stair,0
+pg door,door,0
+pg basement stairs,stair,0
+pg hallway,hall,0
+pg room 2,room,0
+pg room 1,room,0
+point b,point,0
+corridor a,point,0
+pg stairs to cafe,stair,0
+ai chairperson room,room,0
+pg office,room,0
+cs hod room,room,0
+pg ramp to cafe,ramp,0
+pg female washroom,washroom,0
+pg stairs to exit gate,stair,0
+pg male toilet,washroom,0
+point a,point,0
+pg main lab,lab,0
+pg room 3,room,0
+point 1,point,0
+point 2,point,0
+point 3,point,0
+point 4,point,0
+point c,point,0
+point d,point,0
+pg server room,room,0
+pg room 5,room,0
+pg room 4,room,0
+open cafe stairs 2,stair,0
+open cafe stairs 1,stair,0
+female washroom 2,washroom,0
+pg room 125,room,0
+pg room 126,room,0
+corridor b ,point,0
+pg room 127,room,0
+pg room 128,room,0
