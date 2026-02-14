@@ -141,7 +141,7 @@ flutter run
 
 ## 🤝 Contributors
 
-- **Ahtisham** - [@smokhoodwha](https://github.com/smokhood)
+- **Ahtisham** - [@smokhood](https://github.com/smokhood)
 - **Danish** - Co-developer
 
 **Institution:** GC University Lahore  
@@ -161,7 +161,7 @@ flutter run
 
 For questions or collaboration:
 - **Email:** ahtishamravian206@gmail.com
-- **GitHub:** [@smokhoodwha](https://github.com/smokhood)
+- **GitHub:** [@smokhood](https://github.com/smokhood)
 
 ---
 
