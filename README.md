@@ -137,24 +137,6 @@ flutter run
 
 ---
 
-## 🤝 Contributors
-
-- **Ahtisham** - [@smokhood](https://github.com/smokhood)
-- **Danish** - Co-developer
-
-**Institution:** GC University Lahore  
-
----
-
-
-## 🙏 Acknowledgments
-
-- GC University Lahore for project support
-- Ultralytics for YOLOv8
-- Flutter and OpenCV communities
-
----
-
 ## 📧 Contact
 
 For questions or collaboration:
