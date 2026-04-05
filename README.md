@@ -5,8 +5,6 @@
 
 GCUeye is an AI-powered mobile navigation assistant designed to help visually impaired students navigate GC University Lahore campus independently. The app uses YOLOv8 object detection to identify obstacles in real-time and provides voice and haptic feedback through a fully accessible, gesture-based interface.
 
-**👨‍💻 Developed by:** Ahtisham & Danish
-
 ---
 
 ## ✨ Key Features
